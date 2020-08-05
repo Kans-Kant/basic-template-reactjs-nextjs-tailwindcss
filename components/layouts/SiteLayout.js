@@ -1,8 +1,8 @@
 import React,{Component} from 'react';
 import Link from "next/link";
 
-import Footer from '../partials/footer/Footer';
-import Header from '../partials/header/Header';
+import Footer from '../partials/footer/footer';
+import Header from '../partials/header/header';
 
 export default class SiteLayout extends Component{
   constructor(props){
